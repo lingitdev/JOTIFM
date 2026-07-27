@@ -60,3 +60,5 @@ cmake --build build -j4
 📄 License
 
 Distributed under the GNU GPLv3.0.
+
+(STILL DEVELOPING)
