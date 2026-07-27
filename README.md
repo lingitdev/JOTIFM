@@ -47,7 +47,7 @@ Build Steps
 Bash
 
 # Clone the repository
-git clone https://github.com/your-username/JOTIFM.git
+git clone https://github.com/lingitdev/JOTIFM.git
 cd JOTIFM
 
 # Build with CMake
